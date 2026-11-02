@@ -1,0 +1,5 @@
+config.toml
+seen.json
+.env
+.venv/
+__pycache__/

@@ -1,0 +1,15 @@
+# Copy to config.toml and edit. config.toml is git-ignored.
+
+reddit_username = "your_reddit_username"
+
+# A few subreddits you read yourself.
+subreddits = ["programming", "python", "Kenya"]
+
+# Case-insensitive; a post matches if any keyword appears in its title or text.
+keywords = ["junior developer", "laptop deal", "nairobi meetup"]
+
+# How many of the newest posts to check per subreddit on each run.
+posts_per_subreddit = 25
+
+# Where already-notified post IDs are kept (IDs only, no content).
+seen_file = "seen.json"
