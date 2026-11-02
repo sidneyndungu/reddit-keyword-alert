@@ -27,12 +27,14 @@ I then open the post on Reddit myself if I want to read or reply.
 
 ## API usage
 
-- Runs as a Reddit **script app** under my own account.
+- Runs as a Reddit **script app** under my own account,
+  [u/cdney_dev](https://www.reddit.com/user/cdney_dev/). No separate bot
+  account.
 - One listing request per subreddit per run: with 3 subreddits and hourly
   runs, that is about **72 requests a day**, far below the 100 requests per
   minute limit.
 - Sends a descriptive user agent:
-  `script:reddit-keyword-alert:v0.1 (by /u/<username>)`.
+  `script:reddit-keyword-alert:v0.1 (by /u/cdney_dev)`.
 
 ## Why not Devvit
 

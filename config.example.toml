@@ -1,6 +1,6 @@
 # Copy to config.toml and edit. config.toml is git-ignored.
 
-reddit_username = "your_reddit_username"
+reddit_username = "cdney_dev"
 
 # A few subreddits you read yourself.
 subreddits = ["programming", "python", "Kenya"]
